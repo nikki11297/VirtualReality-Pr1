@@ -26,6 +26,18 @@ https://glitch.com/~nikki-vr-proect
             material="src:https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2Fceiling.jpg?v=1601390595860; repeat: 12 12"></a-entity>
       
 •	To decorate the restaurant, I used obj models were used to fill the restaurant. I used blender and I made fan. All of these were loaded as obj-model.
+
+  <a-asset-item id="CeilingfanO" src="https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2F540%20Ceiling%20Fan.obj?v=1600809501621"></a-asset-item> 
+  <a-asset-item id="CeilingfanM" src="https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2F540%20Ceiling%20Fan.mtl?v=1600809493474"></a-asset-item>
+  <a-entity rotation="0 0 0" position="0 4.3 -1.5" scale=".007 .003 .007" obj-model="position:0 4.3 -1.5;obj:#CeilingfanO; mtl:#CeilingfanM"  class="intersectable" >
+            <a-animation attribute="rotation"
+               dur="3000"
+               from="0 0 0"
+               to="0 360 0"
+               easing="linear"
+               repeat></a-animation></a-entity>
+       
+      
 ### Standard Models
 Drums (image 1)
 
@@ -33,7 +45,7 @@ Dog Bowl (image 2)
 
 Dog Biscuit(image 2)
 
-Door 
+Door (image 3)
 
 Flower Table(image 1)
 
