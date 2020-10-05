@@ -92,7 +92,9 @@ Window(image 5)
 ### Animation used
 • There are three different color lights with different intensilty near the drums(image9 , 10)
 
-• Dymanic object is the fan, tavern , dog and lights. ##Please click on tavern, dog, gramaphone(for music)
+• Dymanic object is the fan, tavern , dog and lights. 
+
+## Please click on tavern, dog, gramaphone(for music)
 
 ### All the pictures are shown below.
 image1
