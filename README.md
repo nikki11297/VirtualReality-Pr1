@@ -80,9 +80,9 @@ Window(image 5)
 
 ### All the objects that the user can interact with are listed below.
 
-• The user may interact with tavern (image 6)
+• The user may interact with tavern, when user click tavern will appear(image 6)
 
-• The user may interact with dog (image 7, 8)
+• The user may interact with dog, when suer click on the dog , dog will move from its place. (image 7, 8)
 
 • The user may interact with gramophone which plays music when you click on the slide of gramaphone. (image 3)
 
