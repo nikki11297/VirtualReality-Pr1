@@ -4,6 +4,7 @@
 Project 1 focuses on creating a human scale scene experienced from the 'inside out'. This project gives me an opportunity to design and express my opinion on how COVID-19 changed the situation. So, it gave me the idea of a restaurant and how it is managing covid-19 situations. My project includes 10+ unique models, user controllable objects (like clicking to trigger music), dynamic object to interact with and user navigation.
 
 ### Video Demonstration:
+https://youtu.be/J_1kfRx1QV4
 
 ### Try it out:
 https://nikki11297.github.io/VirtualReality-Pr1/
