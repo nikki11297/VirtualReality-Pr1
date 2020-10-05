@@ -8,7 +8,7 @@ Project 1 focuses on creating a human scale scene experienced from the 'inside o
 ### Try it out:
 https://nikki11297.github.io/VirtualReality-Pr1/
 
-https://glitch.com/~nikki-vr-proect
+https://glitch.com/~nikki-vr-project
 
 ### Theme:
 •	My theme of the project is to make a tiny restaurant where I can be able to show the 6 feet distancing. I did the blue theme as it looks pleasant as well as colorful.
@@ -17,16 +17,18 @@ https://glitch.com/~nikki-vr-proect
 •	This application is written in HTML, A-Frame.
 
 •	First, I create the walls which I used a box and given a texture of a floor was implemented to create the base of the house. Sample piece of code is given below for the walls.
-
+```
 <a-entity id="Wall1F" position="1.5 2 -15" rotation="0 0 0" geometry="primitive: box; width: 22; height:6 depth: .1"
             material="src:https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2Fwallf.jpg?v=1601489682401; repeat: 3 2"></a-entity>    
+```
 
 •	The ceiling of the house was created by using the a-entity tag with a geometry of a box and given specific attributes and texture. 
+```
 <a-entity id="Ceiling" position="1.5 5 -4.5" rotation="-270 0 0" geometry="primitive: plane; width: 22; height:23"
             material="src:https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2Fceiling.jpg?v=1601390595860; repeat: 12 12"></a-entity>
-      
+```
 •	To decorate the restaurant, I used obj models were used to fill the restaurant. I used blender and I made fan. All of these were loaded as obj-model.
-
+```
   <a-asset-item id="CeilingfanO" src="https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2F540%20Ceiling%20Fan.obj?v=1600809501621"></a-asset-item> 
   <a-asset-item id="CeilingfanM" src="https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2F540%20Ceiling%20Fan.mtl?v=1600809493474"></a-asset-item>
   <a-entity rotation="0 0 0" position="0 4.3 -1.5" scale=".007 .003 .007" obj-model="position:0 4.3 -1.5;obj:#CeilingfanO; mtl:#CeilingfanM"  class="intersectable" >
@@ -36,7 +38,7 @@ https://glitch.com/~nikki-vr-proect
                to="0 360 0"
                easing="linear"
                repeat></a-animation></a-entity>
-       
+  ```
       
 ### Standard Models
 Drums (image 1)
