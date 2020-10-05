@@ -23,21 +23,47 @@ Project 1 focuses on creating a human scale scene experienced from the 'inside o
             material="src:https://cdn.glitch.com/74e63c0c-df5a-4f88-a0dc-e7118cf071c5%2Fceiling.jpg?v=1601390595860; repeat: 12 12"></a-entity>
       
 •	To decorate the restaurant, I used obj models were used to fill the restaurant. I used blender and I made fan. All of these were loaded as obj-model.
+### Standard Models
+Drums (image 1)
+Dog Bowl (image 2)
+Dog Biscuit(image 2)
+Door 
+Flower Table(image 1)
+Icecream
+Juice pointe
+Mask
+Orchid(image 1)
+Popcorn 
+popcorn stand
+Sofa
+Stereo (image 1)
+Sanitizer(image 1)
+6-feet distance posters (all images)
+TV(image 1)
+Tables(image 1)
+Wending machine
+Window
 
-All the objects that the user can interact with are listed below.
+### All the objects that the user can interact with are listed below.
 
 • The user may interact with tavern.
 • The user may interact with dog
 • The user may interact with gramophone which plays music when you click on the slide of gramaphone.
 
-Animation used
+### Animation used
 • There are three different color lights with different intensilty near the drums
 • Dymanic object is the fan, tavern , dog and lights.
 
-All the pictures are shown below.
+### All the pictures are shown below.
 
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image1.png)
-
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image2.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image3.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image4.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image5.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image6.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image7.png)
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image8.png)
 
 
 
