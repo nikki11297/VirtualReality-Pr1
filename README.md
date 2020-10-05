@@ -29,26 +29,26 @@ Dog Bowl (image 2)
 Dog Biscuit(image 2)
 Door 
 Flower Table(image 1)
-Icecream
-Juice pointe
-Mask
+Icecream(image 4)
+Juice pointe (
+Mask (image 2)
 Orchid(image 1)
-Popcorn 
-popcorn stand
-Sofa
+Popcorn (image 5)
+popcorn stand (image 5)
+Sofa (image 2)
 Stereo (image 1)
 Sanitizer(image 1)
 6-feet distance posters (all images)
 TV(image 1)
 Tables(image 1)
-Wending machine
-Window
+Wending machine (image 4)
+Window(image 5)
 
 ### All the objects that the user can interact with are listed below.
 
-• The user may interact with tavern.
-• The user may interact with dog
-• The user may interact with gramophone which plays music when you click on the slide of gramaphone.
+• The user may interact with tavern (image 6)
+• The user may interact with dog (image 7, 8)
+• The user may interact with gramophone which plays music when you click on the slide of gramaphone. (image 3)
 
 ### Animation used
 • There are three different color lights with different intensilty near the drums
@@ -57,13 +57,21 @@ Window
 ### All the pictures are shown below.
 
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image1.png)
+                   image1
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image2.png)
+                   image2
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image3.png)
+                   image3
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image4.png)
+                   image4
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image5.png)
+                   image5
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image6.png)
+                   image6
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image7.png)
+                   image7
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image8.png)
+                    image8
 
 
 
