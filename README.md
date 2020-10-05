@@ -6,6 +6,9 @@ Project 1 focuses on creating a human scale scene experienced from the 'inside o
 ### Video Demonstration:
 
 ### Try it out:
+https://nikki11297.github.io/VirtualReality-Pr1/
+
+https://glitch.com/~nikki-vr-proect
 
 ### Theme:
 •	My theme of the project is to make a tiny restaurant where I can be able to show the 6 feet distancing. I did the blue theme as it looks pleasant as well as colorful.
