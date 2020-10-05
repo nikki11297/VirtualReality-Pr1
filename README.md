@@ -36,6 +36,9 @@ Animation used
 
 All the pictures are shown below.
 
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image1.png)
+
+
 
 
 
