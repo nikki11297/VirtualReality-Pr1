@@ -55,23 +55,23 @@ Window(image 5)
 • Dymanic object is the fan, tavern , dog and lights.
 
 ### All the pictures are shown below.
-
+image1
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image1.png)
-                   image1
+image2            
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image2.png)
-                   image2
+  image3                 
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image3.png)
-                   image3
+       image4               
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image4.png)
-                   image4
+  image5             
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image5.png)
-                   image5
+     image6              
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image6.png)
-                   image6
+     image7               
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image7.png)
-                   image7
+image8            
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image8.png)
-                    image8
+                
 
 
 
