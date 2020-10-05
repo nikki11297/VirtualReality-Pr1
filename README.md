@@ -25,33 +25,55 @@ Project 1 focuses on creating a human scale scene experienced from the 'inside o
 •	To decorate the restaurant, I used obj models were used to fill the restaurant. I used blender and I made fan. All of these were loaded as obj-model.
 ### Standard Models
 Drums (image 1)
+
 Dog Bowl (image 2)
+
 Dog Biscuit(image 2)
+
 Door 
+
 Flower Table(image 1)
+
 Icecream(image 4)
-Juice pointe (
+
+Juice pointe (image 4)
+
 Mask (image 2)
+
 Orchid(image 1)
+
 Popcorn (image 5)
+
 popcorn stand (image 5)
+
 Sofa (image 2)
+
 Stereo (image 1)
+
 Sanitizer(image 1)
+
 6-feet distance posters (all images)
+
 TV(image 1)
+
 Tables(image 1)
+
 Wending machine (image 4)
+
 Window(image 5)
+
 
 ### All the objects that the user can interact with are listed below.
 
 • The user may interact with tavern (image 6)
+
 • The user may interact with dog (image 7, 8)
+
 • The user may interact with gramophone which plays music when you click on the slide of gramaphone. (image 3)
 
 ### Animation used
 • There are three different color lights with different intensilty near the drums
+
 • Dymanic object is the fan, tavern , dog and lights.
 
 ### All the pictures are shown below.
@@ -71,6 +93,9 @@ image2
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image7.png)
 image8            
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image8.png)
+
+### Conclusion
+In conclusion, I think that this project was a good stepping stone into learing how to code in virtual reality.Some improvements I would like to make is making an outside area, and making multiple levels(upstairs and downstairs). A learned the basics of aframe and I now feel confident in my ability to code using it. I plan on coming back to this project in the future and improving it even more.
                 
 
 
