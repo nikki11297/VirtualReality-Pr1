@@ -72,7 +72,7 @@ Window(image 5)
 • The user may interact with gramophone which plays music when you click on the slide of gramaphone. (image 3)
 
 ### Animation used
-• There are three different color lights with different intensilty near the drums
+• There are three different color lights with different intensilty near the drums(image9 , 10)
 
 • Dymanic object is the fan, tavern , dog and lights.
 
@@ -93,6 +93,10 @@ image2
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image7.png)
 image8            
 ![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image8.png)
+image9
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image9.png)
+image 10
+![alt text](https://github.com/nikki11297/VirtualReality-Pr1/blob/master/image10.png)
 
 ### Conclusion
 In conclusion, I think that this project was a good stepping stone into learing how to code in virtual reality.Some improvements I would like to make is making an outside area, and making multiple levels(upstairs and downstairs). A learned the basics of aframe and I now feel confident in my ability to code using it. I plan on coming back to this project in the future and improving it even more.
